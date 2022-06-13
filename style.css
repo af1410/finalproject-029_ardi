@@ -1,0 +1,44 @@
+
+section{
+	min-height: 600px
+}
+.about{
+    padding-top: 75px;
+    padding-bottom: 75px;;
+}
+.portfolio{
+	background-color: #F0F8FF;
+	padding-top: 75px;
+	padding-bottom: 75px;
+    
+}
+.border{
+    height: 25rem;
+    width: 20rem;
+}
+.team{
+    background-color: #F0F8FF;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.iteam{
+    width: 18rem;
+    height: 18rem;
+}
+.blog{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.contact{
+	min-height: 800px;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+.medsos2{
+    color: white;
+}
+.medsos{
+    width: 20px;
+    float: left;
+    margin-left: 20px;
+}
